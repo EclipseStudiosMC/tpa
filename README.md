@@ -38,7 +38,7 @@ A: This datapack doens't work on older versions than 1.20.2, this is due to the 
 
 #### Q: Can I modify the datapack and redistribute it?
 
-A: Yes you can, but only if you say who the original creator is ([Eclipse Studios](https://discord.gg/X2NTE7hkq8)) and if you link the [original Modrinth page](https://modrinth.com/datapack/bft) somewhere noticeable in the project.
+A: Yes you can, but only if you say who the original creator is ([Eclipse Studios](https://discord.gg/X2NTE7hkq8)) and if you link the [original Modrinth page](https://modrinth.com/datapack/tpa) somewhere noticeable in the project.
 
 #### Q: Are you guys going to make more datapacks?
 
