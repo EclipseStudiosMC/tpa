@@ -14,13 +14,17 @@ The person who run the command needs to be an **Administrator** or have **Cheats
 
 <h3>In more detail:</h3>
 <details>
-Doing the `/trigger TPA` command will give you a list of players to request to tp to one of them. Once you clicked on one of the names the other person will receive a chat message to accept the tp, if they click on it you will be teleported to them. If 30 seconds pass and the other person didn't accepted, the request will be cancelled.
+Doing the /trigger TPA command will give you a list of players to request to tp to one of them. Once you clicked on one of the names the other person will receive a chat message to accept the tp, if they click on it you will be teleported to them. If 30 seconds pass and the other person didn't accepted, the request will be cancelled.
 </details>
 
 ## Authors
 
 - Team: [Eclipse Studios](https://discord.gg/X2NTE7hkq8)
     - Main dev: [@ElGeroIngles](https://modrinth.com/user/ElGeroIngles)
+
+## Credits
+
+In this datapack we are using SilicatYT method to get a list of all online players, check out his video [here](https://youtu.be/5IIG10M2pn8)!
 
 ## FAQ
 
