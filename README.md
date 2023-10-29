@@ -3,10 +3,6 @@
 
 Teletransportation Accept adds the possibility to request to another player to tp to him! This datapacks makes use of the newly added macros in functions in the Minecraft 1.20.2 update!
 
-## __**IMPORTANT READ BEFORE USE**__
-
-The person who run the command needs to be an **Administrator** or have **Cheats Active** or else the datapack won't work. This is required because we use `/function` in order to work and to run them you need to be an **Administrator** or have **Cheats Active** for them to work. And for those who don't know why we need functions to make this happen is because we use macros in this functions, that's the main reason of why this datapack exists in first place.
-
 ## Features
 
 - `/trigger TPA` command
@@ -31,10 +27,6 @@ In this datapack we are using SilicatYT method to get a list of all online playe
 #### Q: Does it have multiplayer compatibility?
 
 A: Yes it does.
-
-#### Q: Why the command doesn't work?
-
-A: Remember to have **Cheats Active** or be and **Administrator** or else when you run the commands they won't work. This is required because we use `/function` in order to work and to run them you need to be an **Administrator** or have **Cheats Active** for them to work. And for those who don't know why we need functions to make this happen is because we use macros in this functions, that's the main reason of why this datapack exists in first place.
 
 #### Q: Does this datapack work on older/newer versions?
 
