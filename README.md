@@ -53,7 +53,7 @@ If you have found any bugs or have any suggestion, please reach out to us at [ou
 
 ## 🔗 Links
 [![youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@EclipseStudiosMC)
-[![discord](https://img.shields.io/badge/discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/X2NTE7hkq8)
+[![discord](https://img.shields.io/badge/discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4pYjW9btNc)
 [![modrinth](https://img.shields.io/badge/modrinth-5AD770?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/EclipseStudios)
 [![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EclipseStudiosMC)
 [![BuyMeACoffe](https://img.shields.io/badge/BuyMeACoffe-ffdd02?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/ElGeroIngles)
