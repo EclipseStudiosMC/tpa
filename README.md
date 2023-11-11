@@ -30,7 +30,7 @@ A: Yes it does.
 
 #### Q: Does this datapack work on older/newer versions?
 
-A: This datapack doens't work on older versions than 1.20.2, this is due to the use of macros which are exlusive to 1.20.2+. If for whatever reason you want to use it in a newer version and the official update hasn't happened just download the lastest version and change inside the `pack.mcmeta` of the datapack the "[pack_format](https://minecraft.fandom.com/wiki/Pack_format)" value to the desired one (it may not work or at least not as intended).
+A: This datapack doens't work on older versions than 1.20.2, this is due to the use of macros which are exlusive to 1.20.2+. If for whatever reason you want to use it in a newer version and the official update hasn't happened just download the lastest version and change inside the `pack.mcmeta` of the datapack the "[pack_format](https://minecraft.wiki/w/Pack_format)" value to the desired one (it may not work or at least not as intended).
 
 #### Q: Can I modify the datapack and redistribute it?
 
