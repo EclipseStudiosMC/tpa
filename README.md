@@ -46,7 +46,7 @@ A: Yes it is. This datapack follows the [Smithed](https://wiki.smithed.dev/conve
 
 #### Q: Why a lot of unnecessary text appears in chat when I run it?
 
-A: It is very recommended to have the gamerule sendCommandFeedback set to false false. You can manually turn it off by doing `/gamerule sendCommandFeedback false` or by typing `/reload` and clicking on `[APPLY]`.
+A: It is very recommended to have the gamerule sendCommandFeedback set to false. You can manually turn it off by doing `/gamerule sendCommandFeedback false` or by typing `/reload` and clicking on `[APPLY]`.
 
 ## Bug Report/Suggestions
 If you have found any bugs or have any suggestion, please reach out to us at [our discord server](https://discord.gg/X2NTE7hkq8).
