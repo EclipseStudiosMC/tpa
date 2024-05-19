@@ -1,0 +1,11 @@
+{
+    "id": "tpa",
+    "pack": {
+        "supported_formats": [
+            41,
+            41
+        ],
+        "pack_format": 41,
+        "description": "Teletransportation Accept - Eclipse Studios"
+    }
+}
