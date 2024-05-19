@@ -33,6 +33,10 @@ This datapack has 2 setting:
 
 All the options can be found when doing `/reload` inside `[Settings]`.
 
+## Unistall
+
+To unistall the datapack run `/function tpa:unistall` before removing it from the datapacks folder, that will remove all scoreboards and more stuff that the datapack uses.
+
 ## FAQ
 
 #### Q: Does it have multiplayer compatibility?
