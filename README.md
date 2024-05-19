@@ -25,6 +25,17 @@ Doing the /trigger TPA command will give you a list of players to request to tp 
 
 In this datapack we are using SilicatYT method to get a list of all online players, check out his video [here](https://youtu.be/5IIG10M2pn8)!
 
+## Known Issues
+It appears that there's a bug when updating from 1.20.2-1.20.4 to 1.20.5, the datapack/mod just doesn't work, you can check that this is your case by running: `/data get storage tpa:online_players` and checking that it is either empty or contains only one entry that says "PLACEHOLDER". To manually fix it first reset the storage by doing:
+
+`/data remove storage tpa:online_players List`
+
+After that we manually need to enter all of the igns of all of the players connected to the server right now like so:
+
+`/data modify storage tpa:online_players List set value [{Name: "Player1IGN"},{Name: "Player2IGN"}]`
+
+For each online player we'd need to add another `,{Name: "PlayerIGN"}` to the list as shown, doing that should fix the issue and it should work perfectly but the team is already looking to what's causing that bug, if you have more information about the bug or that it happened to you please contact us in our [discord server](https://discord.gg/4pYjW9btNc).
+
 ## FAQ
 
 #### Q: Does it have multiplayer compatibility?
