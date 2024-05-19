@@ -25,6 +25,14 @@ Doing the /trigger TPA command will give you a list of players to request to tp 
 
 In this datapack we are using SilicatYT method to get a list of all online players, check out his video [here](https://youtu.be/5IIG10M2pn8)!
 
+## Settings
+
+This datapack has 2 setting:
+- Recommended Gamerule: Disables `sendCommandFeedback` to hide some unnecessary text, but keep in mind that it also hides text from other commands like `/data`.
+- Remove the black color: This setting removes the black color from the color pool for when you are selecting who you are going to tp to for better visibility.
+
+All the options can be found when doing `/reload` inside `[Settings]`.
+
 ## FAQ
 
 #### Q: Does it have multiplayer compatibility?
@@ -46,10 +54,6 @@ A: Yes we will, we already have some pending ideas for our future datapacks so b
 #### Q: Is this datapack compatible with other datapacks?
 
 A: Yes it is. This datapack follows the [Smithed](https://wiki.smithed.dev/conventions/) conventions to ensure datapack compatibility.
-
-#### Q: Why a lot of unnecessary text appears in chat when I run it?
-
-A: It is very recommended to have the gamerule sendCommandFeedback set to false. You can manually turn it off by doing `/gamerule sendCommandFeedback false` or by typing `/reload` and clicking on `[APPLY]`.
 
 ## Bug Report/Suggestions
 If you have found any bugs or have any suggestion, please reach out to us at [our discord server](https://discord.gg/X2NTE7hkq8).
