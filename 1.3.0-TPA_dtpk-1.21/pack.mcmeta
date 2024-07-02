@@ -1,0 +1,19 @@
+{
+    "id": "tpa",
+    "pack": {
+      "pack_format": 48,
+      "description": [
+        {
+          "text": "Teletransportation Accept - ",
+          "color": "gold",
+          "extra": [
+            {
+              "text": "Eclipse Studios ☽",
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  }
+  
