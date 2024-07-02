@@ -64,9 +64,12 @@ A: Yes it is. This datapack follows the [Smithed](https://wiki.smithed.dev/conve
   </summary>
   <p>
     
-This datapack has 2 setting:
+This datapack has some setting:
 - Recommended Gamerule: Disables `sendCommandFeedback` to hide some unnecessary text, but keep in mind that it also hides text from other commands like `/data`.
 - Remove the black color: This setting removes the black color from the color pool for when you are selecting who you are going to tp to for better visibility.
+- Debug Mode: Enables lots of test messages for facilitating bug fixing.
+- Also tp companions: Also tp the entity you are riding and the ones you have leashed.
+- Change cancel timer: Customize the time that will pass until a tp request cancels.
 
 All the options can be found when doing `/reload` inside `[Settings]`.
 
