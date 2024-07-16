@@ -3,9 +3,7 @@
 Teletransportation Accept adds the possibility to request to another player to tp to him! This datapacks makes use of the newly added macros in functions in the Minecraft 1.20.2 update!
 
 ## 🎥 Video
-<iframe
-src="https://www.youtube.com/embed/Rb33P1Ohe6U">
-</iframe>
+[![BFT](https://img.youtube.com/vi/Rb33P1Ohe6U/0.jpg)](https://www.youtube.com/watch?v=Rb33P1Ohe6U)
 
 ## 🔗 Links
 [![youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@EclipseStudiosMC)
