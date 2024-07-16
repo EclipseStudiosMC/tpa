@@ -3,7 +3,9 @@
 Teletransportation Accept adds the possibility to request to another player to tp to him! This datapacks makes use of the newly added macros in functions in the Minecraft 1.20.2 update!
 
 ## 🎥 Video
-[![BFT](https://img.youtube.com/vi/Rb33P1Ohe6U/0.jpg)](https://www.youtube.com/watch?v=Rb33P1Ohe6U)
+<iframe
+src="https://www.youtube.com/embed/Rb33P1Ohe6U">
+</iframe>
 
 ## 🔗 Links
 [![youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@EclipseStudiosMC)
@@ -35,9 +37,9 @@ Doing the /trigger TPA command will give you a list of players to request to tp 
   </summary>
   <p>
     
-#### Q: It says I must be playing with someone else and I am!
+#### Q: It doesn't work!
 
-A: If that is your case, that means that it didn't recognized all online players correctly, to fix this just do `/reload` and it should work again. If it still doesn't work contact us through our [discord server](https://discord.gg/4pYjW9btNc).
+A: To fix most issues run `/function tpa:manual_reset`, that will manually reset everything. If it still doesn't work contact us through our [discord server](https://discord.gg/4pYjW9btNc).
 
 #### Q: Does this datapack work on older/newer versions?
 
