@@ -11,7 +11,7 @@ execute if score .debug_mode tpa.config matches 1 run tellraw @a ["",{"text":"[T
 
 # Tellraws:
 tellraw @s {"text":"Tp requested!","color":"green"}
-tellraw @p[tag=tpa.this_is_the_end] ["",{"selector":"@s","color":"green","clickEvent":{"action":"run_command","value":"/trigger tpa.accept_tp"}},{"text":" has asked to teleport to you, accept?","color":"green","clickEvent":{"action":"run_command","value":"/trigger tpa.accept_tp"}}]
+tellraw @p[tag=tpa.this_is_the_end] ["",{"selector":"@s","color":"green","click_event":{"action":"run_command","command":"/trigger tpa.accept_tp"}},{"text":" has asked to teleport to you, accept?","color":"green","click_event":{"action":"run_command","command":"/trigger tpa.accept_tp"}}]
 
 # Playsounds:
 playsound minecraft:ui.button.click ambient @s

@@ -5,5 +5,5 @@ $execute if score .debug_mode tpa.config matches 1 run tellraw @a ["",{"text":"[
 $execute if score .debug_mode tpa.config matches 1 run tellraw @a ["",{"text":"[TPA] ","color":"yellow"},{"text":"Debug: ","color":"blue"},{"text":"Id is: ","color":"gold"},{"text":"$(player_id)","color":"dark_aqua"}]
 
 # Form part of the tellraw:
-$execute as $(Name) unless entity @s[tag=tpa.not_this_option] run data modify storage tpa:select_option Text.2 set value '{"text":"[$(Name)] ","color":"$(color)","clickEvent":{"action":"run_command","value":"/trigger tpa.want_tp_to set $(player_id)"}}'
+$execute as $(Name) unless entity @s[tag=tpa.not_this_option] run data modify storage tpa:select_option Text.2 set value '{"text":"[$(Name)] ","color":"$(color)","click_event":{"action":"run_command","command":"/trigger tpa.want_tp_to set $(player_id)"}}'
 $execute as $(Name) unless entity @s[tag=tpa.not_this_option] run function tpa:tpa/tp/concatenate with storage tpa:select_option Text
