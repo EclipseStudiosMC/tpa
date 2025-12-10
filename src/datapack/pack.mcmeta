@@ -1,9 +1,9 @@
 {
     "id": "tpa",
     "pack": {
-      "pack_format": 81,
-      "min_format": 88.0,
-      "max_format": 88.0,
+      "pack_format": 94,
+      "min_format": 94,
+      "max_format": 94,
       "description": [
         {
           "text": "Teletransportation Accept - ",
